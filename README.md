@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yogita Bhagtani</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Student</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmZZe5D84fkM7Ks5J1y8Enu50u90CDDwOWOQ&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yogita-Bhagtani&label=Profile%20views&color=0e75b6&style=flat" alt="Yogita-Bhagtani" /> </p>
 
-- 🌱 I’m currently learning **Reactjs, Django**
+- 🌱 I’m currently learning **Devops**
 
 - 📫 How to reach me **bhagtaniyogita02@gmail.com**
 
