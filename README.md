@@ -2,7 +2,7 @@
 <h3 align="center">Student</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmZZe5D84fkM7Ks5J1y8Enu50u90CDDwOWOQ&s">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=Yogita-Bhagtani&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpayalthummar&psig=AOvVaw0Yi6YJ4JrB-qCdhaElB6UC&ust=1739331550636000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOigk5fZuosDFQAAAAAdAAAAABAE)" alt="Yogita-Bhagtani" /> </p>
+<p align="left"> <img src="" alt="Yogita-Bhagtani" /> </p>
 
 
 
