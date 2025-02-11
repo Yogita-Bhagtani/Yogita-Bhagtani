@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yogita-Bhagtani&label=Profile%20views&color=0e75b6&style=flat" alt="Yogita-Bhagtani" /> </p>
 
-- 🌱 I’m currently learning **Devops**
+
 
 - 📫 How to reach me **bhagtaniyogita02@gmail.com**
 
