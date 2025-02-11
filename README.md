@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogita Bhagtani</h1>
 <h3 align="center">Student</h3>
-<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmZZe5D84fkM7Ks5J1y8Enu50u90CDDwOWOQ&s](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)">
+<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmZZe5D84fkM7Ks5J1y8Enu50u90CDDwOWOQ&s](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)"img>
 
 
 
